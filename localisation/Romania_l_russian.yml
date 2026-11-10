@@ -1,0 +1,162 @@
+﻿    l_russian:
+
+####################
+####Leader Desc.####
+####################
+
+POLITICS_GHEORGHE_TATARESCU_DESC:0 ""
+POLITICS_ARMAND_CALINESCU_DESC:0 ""
+POLITICS_ION_ANTONESCU_DESC:0 ""
+POLITICS_GHEORGHE_DEJ_DESC:0 ""
+
+POLITICS_CAROL_II_DESC:0 ""
+POLITICS_MICHAEL_I_DESC:0 ""
+
+###################
+####Party Names####
+###################
+
+ROM_neutrality_party:0 "ФНВ"
+ROM_neutrality_party_long:0 "Фронт национального возрождения"
+ROM_communism_party:0 "РКП"
+ROM_communism_party_long:0 "Румынская коммунистическая партия"
+ROM_democratic_party:0 "НЛП"
+ROM_democratic_party_long:0 "Национальная либеральная партия"
+ROM_fascism_party:0 "Железная гвардия"
+ROM_fascism_party_long:0 "Железная гвардия"
+ROM_fascism_party_2:0 "НХП"
+ROM_fascism_party_2_long:0 "Национальная христианская партия"
+
+#############
+####Ideas####
+#############
+
+ROM_king_carol_ii_hedonist_2:0 "Образ жизни короля Кароля II"
+ROM_king_carol_ii_hedonist_3:0 "Король Кароль II"
+ROM_the_sentinel_of_the_motherland_3:0 "Страж родины"
+ROM_extra_budget:0 "Увеличенный бюджет"
+ROM_romanian_purge_:0 "Румынская чистка"
+ROM_unstable_politics:0 "Нестабильная политика"
+ROM_research_speed:0 "Инвестиции в электронику"
+ROM_michael_plot:0 "Заговор против Михая I?"
+ROM_iron_guard_0:0 "Железная гвардия"
+ROM_iron_guard:0 "Железная гвардия"
+ROM_iron_guard_2:0 "Железная гвардия"
+ROM_iron_guard_3:0 "Железная гвардия"
+ROM_propaganda_squad:0 "Эскадроны смерти"
+ROM_propaganda_squad_2:0 "Эскадроны смерти"
+ROM_anti_communism:0 "Антикоммунистические настроения"
+ROM_romanianism:0 "Программа «Куйбури»"
+ROM_romanianism_2:0 "Программа «Куйбури»"
+ROM_romanianism_3:0 "Программа «Куйбури»"
+ROM_army_integration:0 "Румынский милитаризм"
+ROM_army_integration_2: "Румынский милитаризм"
+ROM_parade:0 "Общественный порядок"
+ROM_parade_2:0 "Общественный порядок"
+ROM_parade_3:0 "Общественный порядок"
+ROM_royal_research:0 "Финансируемые исследования"
+ROM_kings_propaganda_:0 "Пропаганда короля"
+ROM_kings_propaganda_2:0 "Пропаганда короля"
+ROM_securitate_0:0 "Секуритате"
+ROM_securitate_2:0 "Секуритате"
+ROM_securitate_3:0 "Секуритате"
+ROM_collectivist_propaganda:0 "Коллективистская пропаганда"
+ROM_collectivist_propaganda_2:0 "Коллективистская пропаганда"
+ROM_worker_condition_idea:0 "Улучшение условий труда"
+ROM_worker_condition_idea_2:0 "Улучшение условий труда"
+ROM_worker_condition_idea_3:0 "Улучшение условий труда"
+ROM_soviet_style:0 "Народный фронт"
+ROM_soviet_style_2:0 "Народный фронт"
+ROM_soviet_style_3:0 "Народный фронт"
+ROM_industrial_boom:0 "Промышленный бум"
+ROM_industrial_boom_2:0 "Промышленный бум"
+ROM_constitutional_guarantees_0:0 "Конституционные гарантии"
+ROM_constitutional_guarantees_2:0 "Конституционные гарантии"
+ROM_constitutional_guarantees_3:0 "Конституционные гарантии"
+ROM_national_defense_guard:0 "Национальная гвардия обороны"
+ROM_lone_wolf:0 "Одинокий волк"
+ROM_figurehead_king_michael_2:0 "Номинальный король Михай"
+
+################
+####Tooltips####
+################
+
+ROM_appoint_axis_gov_tt:0 " §YКорнелиу З. Кодряну§! станет советником."
+ROM_war_college_ttt:0 "§YБарбу Пэрэяну§! станет генералом."
+ROM_ioan_dumitrache_tt:0 "§YИон Думитраке§! станет генералом."
+ROM_leonard_mociulschi_tt:0 "§YЛеонард Мочульски§! станет генералом."
+ROM_coastal_defense_ships_tech_tt:0 "Включает §HSNG§!\n§HТяжелый крейсер§!\n    Броня: §G+20%§!\n    Атака: §G+10%§!\n    Стоимость производства: §G-10%§!"
+
+#################
+####Companies####
+#################
+
+ROM_Cugir_Arms:0 "UM Cugir"
+ROM_Cugir_Arms_desc:0 "Куджирский механический завод"
+ROM_RomArm:0 "CNR"
+ROM_RomArm_desc:0 "Национальная компания «Ромарм»"
+ROM_SN_Constanta:0 "ŞNC"
+ROM_SN_Constanta_desc:0 "Верфь Констанцы"
+ROM_SN_Galati:0 "ŞNG"
+ROM_SN_Galati_desc:0 "Галацкий судостроительный завод"
+ROM_SN_Midia:0 "ŞNM"
+ROM_SN_Midia_desc:0 "Верфь Мидия"
+ROM_IAR:0 "IAR"
+ROM_IAR_desc:0 "Румынская авиастроительная компания"
+ROM_ICAR:0 "ÎCAR"
+ROM_ICAR_desc:0 "Румынское авиационное проектное предприятие"
+ROM_SET:0 "SET"
+ROM_SET_desc:0 "Общество технического развития"
+ROM_Leonida:0 "Leonida"
+ROM_Leonida_desc:0 "Фабрика «Leonida»"
+ROM_CFR:0 "CFR"
+ROM_CFR_desc:0 "Румынские железные дороги"
+ROM_Malaxa:0 "MALAXA"
+ROM_Malaxa_desc:0 "MALAXA"
+ROM_RSR:0 "RSR"
+ROM_RSR_desc:0 "НПЗ «Румынская звезда»"
+
+################
+####Advisors####
+################
+
+ROM_Gheorghe_Tatarescu:0 "Георге Тэтэреску"
+ROM_Gheorghe_Gheorghiu_Dej:0 "Георге Георгиу-Деж"
+ROM_Mihail_Sturdza:0 "Михаил Стурдза"
+ROM_Armand_Calinescu:0 "Арманд Кэлинеску"
+ROM_Nicolae_Malaxa:0 "Николае Малакса"
+ROM_Petru_Groza:0 "Петру Гроза"
+ROM_Gheorghe_Argeseanu:0 "Георге Арджешану"
+ROM_Michael_I:0 "Михай I"
+ROM_Horia_Sima:0 "Хория Сима"
+ROM_Corneliu_Codreanu:0 "Корнелиу Зеля Кодряну"
+ROM_Carol_II:0 "Кароль II"
+ROM_Iuliu_Maniu:0 "Юлиу Маниу"
+ROM_constantin_sanatescu2:0 "Константин Сэнэтеску"
+ROM_ion_antonescu2:0 "Ион Антонеску"
+ROM_Iosif_Iacobici:0 "Йосиф Якобич"
+ROM_corneliu_teodorini:0 "Корнелиу Теодорини"
+ROM_Emanoil_Ionescu:0 "Эммануил Ионеску"
+ROM_Nicolae_Tataranu:0 "Николае Тэтарану"
+ROM_Ioan_Palaghita:0 "Иоан Пэлэгица"
+ROM_Constantin_Claps:0 "Константин К.-Клапс"
+ROM_Radu_Korne:0 "Раду Корне"
+ROM_Mihail_Lascar:0 "Михай Ласкар"
+ROM_Ion_Glogojanu:0 "Ион Глодожану"
+ROM_Nicolae_Radescu:0 "Николае Рэдеску"
+ROM_Constantin_Tobescu:0 "Константин Тобеску"
+ROM_alexandru_serbanescu:0 "Александру Шербанеску"
+ROM_Gheorghe_Vasiliu:0 "Георгий Василиу"
+ROM_Horia_Macellariu:0 "Хория Мачеллариу"
+ROM_Nicolae_Sova:0 "Николае Шова"
+ROM_Gheorghe_Jienescu:0 "Георге Йенеску"
+ROM_Gheorghe_Mihail:0 "Георге Михай"
+ROM_Alexandru_Ioanitiu:0 "Александру Иоаниджиу"
+ROM_Constantin_Cantacuzino:0 "Константин Кантакузино"
+ROM_Ermil_Gheorghiu:0 "Ермил Георгиу"
+
+###################
+###Leader Traits###
+###################
+
+true_king:0 "Истинный король"
